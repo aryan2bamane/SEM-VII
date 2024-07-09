@@ -78,5 +78,5 @@ If you have any questions, suggestions, or need further assistance, please feel 
 - GitHub: [Aakash's GitHub](https://github.com/aakashnetada)
 
 # Happy Studying!!!
-
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Faryan2bamane%2FSEM-VII&label=Repo%20Visits&countColor=%23263759)
 ---
