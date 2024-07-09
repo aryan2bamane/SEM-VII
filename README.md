@@ -1,5 +1,6 @@
 <br>
-<div>
+<div align="center">
+
 <h1 align="center"> Profile Visits </h1>
 
 <br>
@@ -9,7 +10,6 @@
 </p>
 </div>
 <br>
-<div align="center">
 # SEM VII Academic Resources
 
 Welcome to the SEM VII Academic Resources repository! This repository is your one-stop destination for all the resources you'll need in your final year of B.Tech in Computer Science and Engineering (CSE). Here, you'll find curated materials to help you ace your courses, prepare for exams, and work on projects effectively.
