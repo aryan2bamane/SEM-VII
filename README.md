@@ -1,7 +1,7 @@
 <br>
 <div align="center">
 
-<h1 align="center"> Profile Visits </h1>
+<h1 align="center"> Repo Visits </h1>
 
 <br>
 
