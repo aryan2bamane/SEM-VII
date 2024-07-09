@@ -6,8 +6,7 @@
 <br>
 
 <p align="center">
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Faryan2bamane%2FSEM-VII&label=Repo%20Visits&countColor=%23263759)
-</p>
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Faryan2bamane%2FSEM-VII"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Faryan2bamane%2FSEM-VII&label=Repo%20Visits&countColor=%231e1e1e" /></a></p>
 </div>
 <br>
 # SEM VII Academic Resources
