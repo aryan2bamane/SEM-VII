@@ -9,6 +9,7 @@
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Faryan2bamane%2FSEM-VII"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Faryan2bamane%2FSEM-VII&label=Repo%20Visits&countColor=%231e1e1e" /></a></p>
 </div>
 <br>
+
 # SEM VII Academic Resources
 
 Welcome to the SEM VII Academic Resources repository! This repository is your one-stop destination for all the resources you'll need in your final year of B.Tech in Computer Science and Engineering (CSE). Here, you'll find curated materials to help you ace your courses, prepare for exams, and work on projects effectively.
