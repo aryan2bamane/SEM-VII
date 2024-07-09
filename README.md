@@ -1,5 +1,5 @@
 <br>
-
+<div>
 <h1 align="center"> Profile Visits </h1>
 
 <br>
@@ -7,7 +7,7 @@
 <p align="center">
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Faryan2bamane%2FSEM-VII&label=Repo%20Visits&countColor=%23263759)
 </p>
-
+</div>
 <br>
 <div align="center">
 # SEM VII Academic Resources
