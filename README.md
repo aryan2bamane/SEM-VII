@@ -80,3 +80,14 @@ If you have any questions, suggestions, or need further assistance, please feel 
 # Happy Studying!!!
 
 ---
+<br>
+
+<h1 align="center"> Repo Visits </h1>
+
+<br>
+
+<p align="center">
+    <img align="center" alt="visitors" src="https://profile-counter.glitch.me/aryan2bamane/SEM-VII/count.svg" />
+</p>
+
+<br>
