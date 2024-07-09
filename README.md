@@ -9,7 +9,6 @@ Welcome to the SEM VII Academic Resources repository! This repository is your on
 - [Resource Structure](#resource-structure)
 - [How to Use](#how-to-use)
 - [Contributing](#contributing)
-- [Acknowledgements](#acknowledgements)
 - [Contact](#contact)
 
 ## Introduction
