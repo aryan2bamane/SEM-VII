@@ -1,7 +1,3 @@
-Sure, here's an engaging and impressive README file for your repository:
-
----
-
 # SEM VII Academic Resources
 
 Welcome to the SEM VII Academic Resources repository! This repository is your one-stop destination for all the resources you'll need in your final year of B.Tech in Computer Science and Engineering (CSE). Here, you'll find curated materials to help you ace your courses, prepare for exams, and work on projects effectively.
@@ -64,22 +60,24 @@ The repository is organized by course, with each course having its own directory
 
 Contributions are welcome! If you have any additional resources or improvements, feel free to fork this repository, make your changes, and submit a pull request. Let's build a comprehensive resource hub together.
 
-## Acknowledgements
 
-A huge thank you to all the professors, authors, and contributors whose materials are included in this repository. Your knowledge and efforts are invaluable to our learning journey.
 
 ## Contact
 
 If you have any questions, suggestions, or need further assistance, please feel free to reach out:
-**1.Aryan Bamane**
+
+**1. Aryan Bamane**
 - Email: aryanbamane2@gmail.com
-- GitHub: [aryan2bamane](https://github.com/aryan2bamane)
-**2.Aditya Madur**
-- Email: 
-- GitHub: 
-**3.Aakash Netada**
-- Email: 
-- GitHub: 
-Happy Studying!
+- GitHub: [Aryan's GitHub](https://github.com/aryan2bamane)
+
+**2. Aditya Madur**
+- Email: adityamadur735@gmail.com
+- GitHub: [Aditya's GitHub](https://github.com/adi-madur)
+
+**3. Aakash Netada**
+- Email: aakashnetada@gmail.com
+- GitHub: [Aakash's GitHub](https://github.com/aakashnetada)
+
+# Happy Studying!!!
 
 ---
