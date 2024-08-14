@@ -71,6 +71,7 @@ The repository is organized by course, with each course having its own directory
 
 Contributions are welcome! If you have any additional resources or improvements, feel free to fork this repository, make your changes, and submit a pull request. Let's build a comprehensive resource hub together.
 
+1. CONTRIBUTE AS NEEDED.
 
 
 ## Contact
