@@ -31,13 +31,11 @@ As a final year student, you understand the importance of having access to quali
 
 This repository includes resources for the following courses:
 
-1. **Advanced Algorithms**
-2. **Machine Learning**
-3. **Data Science**
-4. **Distributed Systems**
-5. **Cyber Security**
-6. **Cloud Computing**
-7. **Software Project Management**
+1. **Advanced Computer Architecture**
+2. **Cloud Computing **
+3. **Advanced Database Systems (PCC- CS703)**
+4. **Software Testing and Quality Assurance (PCE- CS704)**
+5. **WEB TECHNOLOGIES (PCC- CS705)**
 
 ## Resource Structure
 
