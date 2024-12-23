@@ -53,9 +53,9 @@ The repository is organized by course, with each course having its own directory
    git clone https://github.com/aryan2bamane/SEM-VII.git
    ```
 
-2. **Navigate to the Course Directory**: Go to the directory of the course you are interested in.
+2. **Navigate to the Subject's Directory**: Go to the directory of the course you are interested in.
    ```sh
-   cd SEM-VII/<Course-Name>
+   cd SEM-VII/<Subject-Name>
    ```
 
 3. **Access Resources**: Browse through the folders to find the resources you need.
